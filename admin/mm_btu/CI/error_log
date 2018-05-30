@@ -1,0 +1,23 @@
+[10-Apr-2018 18:05:02 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/parasnathsoftwar/public_html/mmbtu_coin/CI/application/views/index.php on line 11
+[11-Apr-2018 14:58:57 UTC] PHP Fatal error:  Call to a member function view() on null in /home/parasnathsoftwar/public_html/mmbtu_coin/CI/application/controllers/Login.php on line 9
+[11-Apr-2018 14:59:21 UTC] PHP Fatal error:  Call to a member function view() on null in /home/parasnathsoftwar/public_html/mmbtu_coin/CI/application/controllers/Login.php on line 9
+[11-Apr-2018 14:59:23 UTC] PHP Fatal error:  Call to a member function view() on null in /home/parasnathsoftwar/public_html/mmbtu_coin/CI/application/controllers/Login.php on line 9
+[11-Apr-2018 14:59:40 UTC] PHP Fatal error:  Call to a member function view() on null in /home/parasnathsoftwar/public_html/mmbtu_coin/CI/application/controllers/Login.php on line 9
+[11-Apr-2018 15:01:08 UTC] PHP Fatal error:  Call to a member function view() on null in /home/parasnathsoftwar/public_html/mmbtu_coin/CI/application/controllers/Login.php on line 9
+[11-Apr-2018 15:01:10 UTC] PHP Fatal error:  Call to a member function view() on null in /home/parasnathsoftwar/public_html/mmbtu_coin/CI/application/controllers/Login.php on line 9
+[11-Apr-2018 15:01:11 UTC] PHP Fatal error:  Call to a member function view() on null in /home/parasnathsoftwar/public_html/mmbtu_coin/CI/application/controllers/Login.php on line 9
+[11-Apr-2018 15:01:27 UTC] PHP Fatal error:  Call to a member function view() on null in /home/parasnathsoftwar/public_html/mmbtu_coin/CI/application/controllers/Login.php on line 9
+[11-Apr-2018 15:01:49 UTC] PHP Fatal error:  Call to a member function view() on null in /home/parasnathsoftwar/public_html/mmbtu_coin/CI/application/controllers/Login.php on line 9
+[11-Apr-2018 15:02:16 UTC] PHP Fatal error:  Call to a member function modal() on null in /home/parasnathsoftwar/public_html/mmbtu_coin/CI/application/controllers/Login.php on line 9
+[11-Apr-2018 15:02:19 UTC] PHP Fatal error:  Call to a member function modal() on null in /home/parasnathsoftwar/public_html/mmbtu_coin/CI/application/controllers/Login.php on line 9
+[11-Apr-2018 15:02:47 UTC] PHP Fatal error:  Call to a member function modal() on null in /home/parasnathsoftwar/public_html/mmbtu_coin/CI/application/controllers/Login.php on line 9
+[11-Apr-2018 15:03:26 UTC] PHP Fatal error:  Call to a member function modal() on null in /home/parasnathsoftwar/public_html/mmbtu_coin/CI/application/controllers/Login.php on line 9
+[11-Apr-2018 15:03:26 UTC] PHP Fatal error:  Call to a member function modal() on null in /home/parasnathsoftwar/public_html/mmbtu_coin/CI/application/controllers/Login.php on line 9
+[11-Apr-2018 15:03:26 UTC] PHP Fatal error:  Call to a member function modal() on null in /home/parasnathsoftwar/public_html/mmbtu_coin/CI/application/controllers/Login.php on line 9
+[11-Apr-2018 15:03:31 UTC] PHP Fatal error:  Call to a member function modal() on null in /home/parasnathsoftwar/public_html/mmbtu_coin/CI/application/controllers/Login.php on line 9
+[11-Apr-2018 15:13:15 UTC] PHP Fatal error:  Call to a member function modal() on null in /home/parasnathsoftwar/public_html/mmbtu_coin/CI/application/controllers/Login.php on line 9
+[11-Apr-2018 15:15:14 UTC] PHP Fatal error:  Call to a member function modal() on null in /home/parasnathsoftwar/public_html/mmbtu_coin/CI/application/controllers/Login.php on line 9
+[11-Apr-2018 15:17:26 UTC] PHP Fatal error:  Call to a member function modal() on null in /home/parasnathsoftwar/public_html/mmbtu_coin/CI/application/controllers/Login.php on line 9
+[11-Apr-2018 15:17:42 UTC] PHP Fatal error:  Call to a member function model() on null in /home/parasnathsoftwar/public_html/mmbtu_coin/CI/application/controllers/Login.php on line 9
+[11-Apr-2018 15:25:22 UTC] PHP Fatal error:  Call to undefined method CI_Loader::modal() in /home/parasnathsoftwar/public_html/mmbtu_coin/CI/application/controllers/Login.php on line 9
+[11-Apr-2018 15:27:16 UTC] PHP Fatal error:  Call to a member function insert() on null in /home/parasnathsoftwar/public_html/mmbtu_coin/CI/application/models/Register.php on line 7
